@@ -1,0 +1,2 @@
+# unlimited_ie_mode_tool
+Microsof EdgeでIEモードを90日制限無しで利用するツール
