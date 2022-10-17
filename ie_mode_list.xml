@@ -1,0 +1,8 @@
+<site-list version="221017.0">
+    <!-- 以下の記載例の様にURLを追加
+    <site url="http://example.com">
+        <compat-mode>Default</compat-mode>
+        <open-in allow-redirect="true">IE11</open-in>
+    </site> -->
+    <!-- Begin Site List -->
+</site-list>
