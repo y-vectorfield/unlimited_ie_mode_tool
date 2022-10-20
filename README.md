@@ -56,3 +56,10 @@ Power Shellを管理者権限で起動し，ツールのディレクトリ(デ�
 ### Microsoft Edgeで確認
 Microsoft Edgeを起動して，アドレスバーに`edge://compat/enterprise`と入力し，エンターキーを押します．IEモードで起動するサイトの一覧が表示され，
 先程xmlファイルに入力したURLのサイトが一覧に登録されていれば成功です．
+
+### IEモードが不要になった場合
+IEモードが不要になった場合は，以下のスクリプトを実行します．
+
+```powershell
+./remove_key.ps1
+```
