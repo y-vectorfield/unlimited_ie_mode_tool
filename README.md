@@ -1,6 +1,10 @@
 # Unlimited IE Mode Tool
 Microsof Edgeで`IEモードは90日限定`の制限無しで利用するツール
 
+## 動作環境
+* Windows 11, Windows 10
+* ツールの実行には<font color="RED">管理者権限</font>での操作が可能であることが必要です．
+
 ## 使い方
 
 ### 前準備
